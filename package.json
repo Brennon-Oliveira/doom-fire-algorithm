@@ -1,0 +1,31 @@
+{
+  "name": "doomfire",
+  "version": "1.0.0",
+  "description": "The doom fire algorithm made with typescript transpiled to vanillaJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brennon-Oliveira/doom-fire-algorithm.git"
+  },
+  "keywords": [
+    "Doom",
+    "Fire",
+    "typescript",
+    "html",
+    "Doom",
+    "Fire",
+    "Algorithm"
+  ],
+  "author": "Brennon Gabriel de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brennon-Oliveira/doom-fire-algorithm/issues"
+  },
+  "homepage": "https://github.com/Brennon-Oliveira/doom-fire-algorithm#readme",
+  "devDependencies": {
+    "@types/node": "^18.16.0"
+  }
+}
